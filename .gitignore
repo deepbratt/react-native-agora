@@ -69,10 +69,10 @@ Pods
 **/*~
 xcuserdata*
 **/*/xcuserdata*
-.vscode
 samples/**/package-lock.json
 *.iml
 android/bin
 yarn.lock
 package-lock.json
 docs/api
+config.bat
