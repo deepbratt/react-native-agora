@@ -13,7 +13,6 @@ Podfile.lock
 gradle/
 local.properties
 *.iml
-.vscode/
 android/app/.settings/
 android/.settings/
 android/app/.classpath
@@ -29,3 +28,4 @@ yarn.lock
 npm-debug.log
 npm-lock.json
 package-lock.json
+config.bat
